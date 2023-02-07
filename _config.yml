@@ -25,7 +25,7 @@ author_profile: true
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dark" 
 # Outputting
